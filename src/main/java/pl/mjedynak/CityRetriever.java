@@ -20,5 +20,4 @@ public class CityRetriever {
         }
         return null;
     }
-
 }
